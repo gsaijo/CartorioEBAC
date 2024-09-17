@@ -1,2 +1,2 @@
 # CartorioEBAC
-Projeto do curso de TI da Ebac
+Apartir de um menu você consegue registrar, consultar e deletar pessoas localmente.
