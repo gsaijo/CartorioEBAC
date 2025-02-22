@@ -1,2 +1,2 @@
 # CartorioEBAC
-Apartir de um menu você consegue registrar, consultar e deletar pessoas localmente.
+A partir de um menu você deve conseguuir registrar, consultar e deletar pessoas localmente.
